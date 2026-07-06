@@ -1,0 +1,4 @@
+﻿RDK 最新模型路径: /root/voice_photo/vision_models/package_sort_best.onnx
+代码包内模型文件: package_sort_best.onnx
+SHA256: 63470c116aad54c9af68b797de5109a798ee94600ce7b6a5eb9152bd5b2a08ae
+

@@ -1,0 +1,9 @@
+﻿path: E:/rdk_package_dataset
+train: images/train
+val: images/train
+
+names:
+  0: box
+  1: bag
+  2: shipping_label
+  3: barcode

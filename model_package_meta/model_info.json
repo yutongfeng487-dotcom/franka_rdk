@@ -1,0 +1,17 @@
+{
+  "model_file": "package_sort_best.onnx",
+  "task": "detect",
+  "input_size": 640,
+  "classes": [
+    "box",
+    "bag",
+    "shipping_label",
+    "barcode"
+  ],
+  "logic": {
+    "bag": "default_left",
+    "box_with_shipping_label_or_barcode": "default_right",
+    "box_without_shipping_label_and_barcode": "flip_until_label_visible",
+    "voice_override": "highest_priority"
+  }
+}

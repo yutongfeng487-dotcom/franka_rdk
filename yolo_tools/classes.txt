@@ -1,0 +1,4 @@
+﻿box
+bag
+shipping_label
+barcode
