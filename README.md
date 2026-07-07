@@ -1,6 +1,6 @@
 # Franka RDK Package Sorting
 
-English | [简体中文](README_CN.md)
+English | [简体中文](README_cn.md)
 
 This repository contains the core code for a package sorting demo built with an RDK X5 edge device, a depth/RGB camera workflow, voice interaction scripts, YOLO-based object detection, and an Ubuntu computer connected to a Franka robot arm.
 
@@ -183,7 +183,7 @@ Keep `FRANKA_EXECUTE_REAL=0` until the real robot workflow has been manually tes
 
 ## Useful Documentation
 
-- `README_CN.md`: Chinese project overview.
+- `README_cn.md`: Chinese project overview.
 - `README_重要代码清单.md`: original Chinese submission inventory.
 - `ubuntu_franka_bridge/00_README_先看这个.md`: Ubuntu bridge setup notes.
 - `ubuntu_franka_bridge/13_终端命令大全.md`: terminal command reference.

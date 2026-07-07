@@ -30,7 +30,7 @@
 
 ## RDK X5 端
 
-主要代码位于 `rdk_voice_vision/`。
+主要代码位于 `rdk_voice_vision/`
 
 常用入口文件包括：
 
